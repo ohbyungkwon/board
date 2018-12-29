@@ -1,0 +1,1 @@
+webpackJsonp([3],{9:function(n,o){window.onload=function(){var n,o=document.getElementsByClassName("inputBtn"),e=o.length;console.log(e);for(var t=0;t<e;t++)!function(e){document.getElementById(o[e].id).addEventListener("click",function(){1==o[e].id&&(n="/SignIn"),location.replace(n),console.log(n)})}(t)}}},[9]);
